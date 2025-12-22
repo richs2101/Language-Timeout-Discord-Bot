@@ -8,8 +8,8 @@ import datetime
 TOKEN = 'YOUR_BOT_TOKEN_HERE'
 
 # Channel IDs (replace with your actual channel IDs)
-ENGLISH_CHANNEL_ID = 123456789012345678  # English chat channel
-HINDI_CHANNEL_ID = 987654321098765432    # Hindi chat channel
+ENGLISH_CHANNEL_ID = add english channel id here  # English chat channel
+HINDI_CHANNEL_ID = add hindi channel id here    # Hindi chat channel
 
 # Timeout duration in seconds (e.g., 300 = 5 minutes)
 TIMEOUT_DURATION = 300
