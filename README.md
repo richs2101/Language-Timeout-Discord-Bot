@@ -6,5 +6,5 @@ This is a custom language timeout discord bot that can do timeouts if anyone spe
 ```bash
 1. Add your bot token and channel id which is required in the language_bot.py file.
 2. pip install requirements.txt
-3. python bot.py
+3. python language_bot.py
 4. Enjoy!
